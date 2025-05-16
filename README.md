@@ -55,4 +55,4 @@ insta-spots/
 ├── README.md
 
 ---
-
+---
